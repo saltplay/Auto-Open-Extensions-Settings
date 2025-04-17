@@ -22,7 +22,6 @@
         );
         if (drawerButton) {
             const event = new MouseEvent("click", {
-                view: window,
                 bubbles: true,
                 cancelable: true,
             });
