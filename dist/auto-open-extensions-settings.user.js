@@ -6,7 +6,6 @@
 // @version         1.4
 // @author          saltplay
 // @namespace       https://github.com/SillyTavern/SillyTavern
-// @description     自动打开SillyTavern扩展设置面板
 // @match           *://127.0.0.1:8000/*
 // ==/UserScript==
 
